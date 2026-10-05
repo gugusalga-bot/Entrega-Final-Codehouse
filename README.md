@@ -26,7 +26,7 @@ El sistema está dividido en dos workflows en vez de uno solo, para evitar depen
 
 | # | Entregable | Archivo(s) |
 |---|---|---|
-| 1 | Diagrama de arquitectura | `[nombre del PDF]` |
+| 1 | Diagrama de arquitectura | `Workflow 1.pdf`, `Workflow 2.pdf`, `Workflow 1 - JSON.docx`, `Workflow 2 - JSON.dox` |
 | 2 | Manual operativo de datos | Parte A — Esquema de Airtable: `Tabla_de_tickets.pdf`, `Tabla_de_errores.pdf`, `Tabla_area_de_soporte.pdf` · Parte B — Esquemas JSON de integración: `Esquemas_JSON_de_transferencia_de_las_integraciones.docx` |
 | 3 | Matriz de costos y optimización | `Matriz_de_costos_y_optimizacion.docx` |
 | 4 | Documentación de seguridad y resiliencia | `Documentacion_de_seguridad_y_resiliencia.docx` |
