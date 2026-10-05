@@ -30,7 +30,9 @@ El sistema está dividido en dos workflows en vez de uno solo, para evitar depen
 | 2 | Manual operativo de datos | Parte A — Esquema de Airtable: `Tabla_de_tickets.pdf`, `Tabla_de_errores.pdf`, `Tabla_area_de_soporte.pdf` · Parte B — Esquemas JSON de integración: `Esquemas_JSON_de_transferencia_de_las_integraciones.docx` |
 | 3 | Matriz de costos y optimización | `Matriz_de_costos_y_optimizacion.docx` |
 | 4 | Documentación de seguridad y resiliencia | `Documentacion_de_seguridad_y_resiliencia.docx` |
-| 5 | Dashboard de control | `[link a la interfaz de Airtable o archivo exportado]` |
+| 5 | Dashboard de control | Importante: el link publico en Airtable requiere un plan pago, por lo que se comparte un link para visualizar + una captura de la vista al dashboard `[[link a la interfaz de Airtable o archivo exportado]](https://airtable.com/invite/l?inviteId=invkC9ypRWLyqPPT3&inviteToken=b236408b09e9e9d5bc2a2a2789ee4d1a2c5009f60e101842dd699a85bdc8ad56&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts)` |
+| 6 | Entrega final | Documento completo del nodo a nodo en la ejecución de un camino feliz, un error de contenido IA, un error de datos incompletos y un ticket rechazado + información extra como prompts y message system para la IA `Entrega final.docx` |
+| 6 | Video | https://www.loom.com/share/8e61f7c3db3341afa4d46e5bc75305c4 |
 
 ## Autor
 
